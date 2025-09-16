@@ -7,5 +7,5 @@ void greet() {
 
 int main() {
     greet();
-    return 0;
+    return 0;   
 }
